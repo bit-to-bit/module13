@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "name": "Vasyl",
+  "username": "OK",
+  "email": "OK@gmail.com",
+  "address": {
+    "street": "Beautiful",
+    "suite": "777",
+    "city": "New York",
+    "zipcode": "70002",
+    "geo": {
+      "lat": "-77.7777",
+      "lng": "77.7777"
+    }
+  },
+  "phone": "1-777-777-7777 x77777",
+  "website": "OK.org",
+  "company": {
+    "name": "OK777",
+    "catchPhrase": "Per Aspera ad Astra",
+    "bs": "777"
+  }
+}
